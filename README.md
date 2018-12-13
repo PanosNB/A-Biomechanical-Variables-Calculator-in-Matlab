@@ -1,5 +1,7 @@
 # A Biomechanical Variables Calculator in Matlab
 
+[![DOI](https://zenodo.org/badge/161584271.svg)](https://zenodo.org/badge/latestdoi/161584271)
+
 This project is a collection of Matlab scripts that scan a target directory for CSV files containing biomechanical data. Each line of the CSV file is expected to contain the following information (the exact column can be specified in the script):
 * Two three-dimensional force vectors
 * Two two-dimensional location points
